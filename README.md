@@ -14,16 +14,10 @@ cd react-with-jest
 </code>
 
 ### Clone o repositório:
-<code>
- git clone https://github.com/Higas01/setup-jest-vite-ts.git .
- </code>
+<code>git clone https://github.com/Higas01/setup-jest-vite-ts.git .</code>
 
  ### Instale as depedências:
- <code>
- npm i
- </code>
+ <code>npm i</code>
 
  ### Execute o comando de testes:
- <code>
- npm test
- </code>
+ <code>npm test</code>
