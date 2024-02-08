@@ -12,7 +12,7 @@
 ### Clone o repositório:
 <code>git clone https://github.com/Higas01/setup-jest-vite-ts.git .</code>
 
- ### Instale as depedências:
+ ### Instale as dependências:
  <code>npm i</code>
 
  ### Execute o comando de testes:
